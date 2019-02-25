@@ -1,0 +1,171 @@
+.purchase{
+	border:1px solid ;
+	border-radius: 5px;
+}
+
+.purchase:hover{
+	background-color: #fff;
+	color: #333 !important;
+}
+
+
+.banner-section img{
+	width: 100%;
+}
+
+
+.banner-section{
+	position: relative;
+	height: 100vh;
+    overflow: hidden;
+}
+
+.overlay{
+	position: absolute;
+    background: #2f2fbabd;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.banner-box{
+	position: absolute;
+	 top:50%;
+	 left: 50%;
+	 transform: translate(-50%,-50%);
+}
+
+.banner-content{
+
+}
+
+.banner-content h1{
+
+}
+
+.banner-content p{
+
+}
+
+.button{
+
+}
+.feture-section{
+
+}
+.feture-paragraph{
+
+}
+.feture-heading{
+
+}
+
+.feture-box{
+
+}
+
+.feture-box .feture-img{
+
+background: grey;
+
+border-radius: 5px;
+}
+
+.feture-box h3{
+
+}
+
+.feture-box p{
+	
+}
+
+.feture-box .feture-img img{
+
+transform: translate(-5px,-5px);
+transition-duration: 0.4s;
+border-radius: 5px;
+}
+
+
+
+.link{
+
+text-decoration: none;
+transition-duration: 0.4s;
+padding-bottom: 4px;
+border-bottom: 1px dotted transparent;
+} 
+
+.link span{
+transition-duration: 0.4s;
+}
+.link:hover{
+
+text-decoration: none;
+
+color: #333;
+
+border-bottom: 1px dotted #999;
+
+
+}
+
+.link:hover span{
+	
+margin-left: 5px;
+}
+
+.feture-box .feture-img:hover img {transform: translate(-8px,-8px);
+
+}
+
+.responsive-icon{
+
+text-align: center;
+
+color: white;
+
+font-size: 2em;
+
+width: 60px;
+
+height: 60px;
+
+line-height: 60px;
+
+border-radius: 5px;
+}
+
+.responsive-icon i{
+
+}
+
+.responsive-elements{
+	
+}
+
+.carousel{
+	background-color: purple;
+}
+
+q{
+	position: middle;
+}
+
+.list-unstyled{
+
+color: blue;
+}
+
+.list-unstyled ul{
+
+}
+
+.list-unstyled ul li{
+
+}
+
+.list-unstyled ul li a{
+
+}
